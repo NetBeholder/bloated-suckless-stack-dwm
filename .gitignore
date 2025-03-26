@@ -53,3 +53,7 @@ dkms.conf
 
 # Archives
 *.tar.gz
+
+# Misc
+*.orig
+*.rej
