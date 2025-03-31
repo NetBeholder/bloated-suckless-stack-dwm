@@ -25,6 +25,8 @@ Applied patches are:
 * Color scheme: *gruvbox-material*
 * Main font: *JetBrains Mono Nerd Font*
 * Bar: *dwmblock-async*
+
+![alt text](https://github.com/NetBeholder/bloated-suckless-stack-dwm/blob/main/screenshot.png)
 ## Layouts
 Available layouts:
 * tile
